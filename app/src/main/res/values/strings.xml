@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnackBar Demo</string>
+    <string name="snackbarBtn2Message">Make and show all at once</string>
+</resources>
